@@ -15,7 +15,7 @@
   }
   .todoListMain .header button:hover {
     background-color: #04080f;
-    border: 2px solid #7a8fb9;
+    border: 2px solid #cef8fd;
     cursor: pointer;
   }
   .todoListMain .theList {
@@ -40,3 +40,4 @@
   ul.theList {
     padding: 0;
   }
+  
