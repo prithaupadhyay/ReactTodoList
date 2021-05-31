@@ -1,0 +1,9 @@
+#deleteButton {
+    float: right;
+    position:static;
+}
+
+#deleteButton:hover {
+    background-color: rgb(251, 0, 42);
+    cursor: pointer;
+  }

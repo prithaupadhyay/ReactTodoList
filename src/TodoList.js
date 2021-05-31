@@ -51,7 +51,7 @@ class TodoList extends Component {
             <input ref={(a) => this._inputElement = a} 
                   placeholder="enter task">
             </input>
-            <button type="submit">add</button>
+            <button type="submit">Add</button>
           </form>
         </div>
         <TodoItems entries={this.state.items}delete={this.deleteItem}/>
@@ -61,4 +61,4 @@ class TodoList extends Component {
 }
  
 export default TodoList;
-
+ 

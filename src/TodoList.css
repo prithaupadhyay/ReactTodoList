@@ -33,10 +33,6 @@
     transition: background-color .2s ease-out;
   }
    
-  .todoListMain .theList li:hover {
-    background-color: rgb(251, 0, 42);
-    cursor: pointer;
-  }
   ul.theList {
     padding: 0;
   }
